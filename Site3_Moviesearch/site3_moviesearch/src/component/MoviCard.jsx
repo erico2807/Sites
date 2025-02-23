@@ -1,4 +1,4 @@
-﻿
+﻿import "../css/MovieCard.css";
  function MovieCard({ movie }) {
 
     function onFavoriteClick() {
@@ -11,7 +11,7 @@
             <img src={movie.url} alt={movie.title} />
             <div className="movie-Overlay">
                 <button className="favorite-btn" onClick={onFavoriteClick}>
-                ♥️
+                🤍
                 </button>
             </div>
         </div>
