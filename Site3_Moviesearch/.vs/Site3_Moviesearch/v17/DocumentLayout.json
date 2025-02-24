@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\erico\\Desktop\\Sites\\Site3_Moviesearch\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8B6C22FC-79DC-4166-BAF8-F9B5960CE08B}|Site3_Moviesearch\\site3_moviesearch.esproj|c:\\users\\erico\\desktop\\sites\\site3_moviesearch\\site3_moviesearch\\src\\services\\api.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{8B6C22FC-79DC-4166-BAF8-F9B5960CE08B}|Site3_Moviesearch\\site3_moviesearch.esproj|solutionrelative:site3_moviesearch\\src\\services\\api.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{8B6C22FC-79DC-4166-BAF8-F9B5960CE08B}|Site3_Moviesearch\\site3_moviesearch.esproj|c:\\users\\erico\\desktop\\sites\\site3_moviesearch\\site3_moviesearch\\src\\component\\movicard.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8B6C22FC-79DC-4166-BAF8-F9B5960CE08B}|Site3_Moviesearch\\site3_moviesearch.esproj|solutionrelative:site3_moviesearch\\src\\component\\movicard.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6C22FC-79DC-4166-BAF8-F9B5960CE08B}|Site3_Moviesearch\\site3_moviesearch.esproj|c:\\users\\erico\\desktop\\sites\\site3_moviesearch\\site3_moviesearch\\src\\context\\moviecontext.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8B6C22FC-79DC-4166-BAF8-F9B5960CE08B}|Site3_Moviesearch\\site3_moviesearch.esproj|solutionrelative:site3_moviesearch\\src\\context\\moviecontext.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6C22FC-79DC-4166-BAF8-F9B5960CE08B}|Site3_Moviesearch\\site3_moviesearch.esproj|c:\\users\\erico\\desktop\\sites\\site3_moviesearch\\site3_moviesearch\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8B6C22FC-79DC-4166-BAF8-F9B5960CE08B}|Site3_Moviesearch\\site3_moviesearch.esproj|solutionrelative:site3_moviesearch\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8B6C22FC-79DC-4166-BAF8-F9B5960CE08B}|Site3_Moviesearch\\site3_moviesearch.esproj|c:\\users\\erico\\desktop\\sites\\site3_moviesearch\\site3_moviesearch\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
@@ -15,20 +23,20 @@
       "RelativeMoniker": "D:0:0:{8B6C22FC-79DC-4166-BAF8-F9B5960CE08B}|Site3_Moviesearch\\site3_moviesearch.esproj|solutionrelative:site3_moviesearch\\src\\pages\\home.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B6C22FC-79DC-4166-BAF8-F9B5960CE08B}|Site3_Moviesearch\\site3_moviesearch.esproj|c:\\users\\erico\\desktop\\sites\\site3_moviesearch\\site3_moviesearch\\src\\component\\movicard.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{8B6C22FC-79DC-4166-BAF8-F9B5960CE08B}|Site3_Moviesearch\\site3_moviesearch.esproj|solutionrelative:site3_moviesearch\\src\\component\\movicard.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B6C22FC-79DC-4166-BAF8-F9B5960CE08B}|Site3_Moviesearch\\site3_moviesearch.esproj|c:\\users\\erico\\desktop\\sites\\site3_moviesearch\\site3_moviesearch\\src\\component\\navbar.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{8B6C22FC-79DC-4166-BAF8-F9B5960CE08B}|Site3_Moviesearch\\site3_moviesearch.esproj|solutionrelative:site3_moviesearch\\src\\component\\navbar.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{8B6C22FC-79DC-4166-BAF8-F9B5960CE08B}|Site3_Moviesearch\\site3_moviesearch.esproj|c:\\users\\erico\\desktop\\sites\\site3_moviesearch\\site3_moviesearch\\src\\css\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8B6C22FC-79DC-4166-BAF8-F9B5960CE08B}|Site3_Moviesearch\\site3_moviesearch.esproj|solutionrelative:site3_moviesearch\\src\\css\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8B6C22FC-79DC-4166-BAF8-F9B5960CE08B}|Site3_Moviesearch\\site3_moviesearch.esproj|c:\\users\\erico\\desktop\\sites\\site3_moviesearch\\site3_moviesearch\\src\\pages\\favorites.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{8B6C22FC-79DC-4166-BAF8-F9B5960CE08B}|Site3_Moviesearch\\site3_moviesearch.esproj|solutionrelative:site3_moviesearch\\src\\pages\\favorites.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B6C22FC-79DC-4166-BAF8-F9B5960CE08B}|Site3_Moviesearch\\site3_moviesearch.esproj|c:\\users\\erico\\desktop\\sites\\site3_moviesearch\\site3_moviesearch\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{8B6C22FC-79DC-4166-BAF8-F9B5960CE08B}|Site3_Moviesearch\\site3_moviesearch.esproj|solutionrelative:site3_moviesearch\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{8B6C22FC-79DC-4166-BAF8-F9B5960CE08B}|Site3_Moviesearch\\site3_moviesearch.esproj|c:\\users\\erico\\desktop\\sites\\site3_moviesearch\\site3_moviesearch\\src\\services\\api.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8B6C22FC-79DC-4166-BAF8-F9B5960CE08B}|Site3_Moviesearch\\site3_moviesearch.esproj|solutionrelative:site3_moviesearch\\src\\services\\api.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6C22FC-79DC-4166-BAF8-F9B5960CE08B}|Site3_Moviesearch\\site3_moviesearch.esproj|c:\\users\\erico\\desktop\\sites\\site3_moviesearch\\site3_moviesearch\\src\\component\\navbar.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8B6C22FC-79DC-4166-BAF8-F9B5960CE08B}|Site3_Moviesearch\\site3_moviesearch.esproj|solutionrelative:site3_moviesearch\\src\\component\\navbar.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8B6C22FC-79DC-4166-BAF8-F9B5960CE08B}|Site3_Moviesearch\\site3_moviesearch.esproj|c:\\users\\erico\\desktop\\sites\\site3_moviesearch\\site3_moviesearch\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -42,17 +50,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "App.jsx",
               "DocumentMoniker": "C:\\Users\\erico\\Desktop\\Sites\\Site3_Moviesearch\\site3_moviesearch\\src\\App.jsx",
               "RelativeDocumentMoniker": "site3_moviesearch\\src\\App.jsx",
               "ToolTip": "C:\\Users\\erico\\Desktop\\Sites\\Site3_Moviesearch\\site3_moviesearch\\src\\App.jsx",
               "RelativeToolTip": "site3_moviesearch\\src\\App.jsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
               "WhenOpened": "2025-02-23T15:38:06.238Z",
               "IsPinned": true,
@@ -60,46 +68,73 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "main.jsx",
+              "DocumentMoniker": "C:\\Users\\erico\\Desktop\\Sites\\Site3_Moviesearch\\site3_moviesearch\\src\\main.jsx",
+              "RelativeDocumentMoniker": "site3_moviesearch\\src\\main.jsx",
+              "ToolTip": "C:\\Users\\erico\\Desktop\\Sites\\Site3_Moviesearch\\site3_moviesearch\\src\\main.jsx",
+              "RelativeToolTip": "site3_moviesearch\\src\\main.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-02-23T17:18:01.493Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovieContext.jsx",
+              "DocumentMoniker": "C:\\Users\\erico\\Desktop\\Sites\\Site3_Moviesearch\\site3_moviesearch\\src\\context\\MovieContext.jsx",
+              "RelativeDocumentMoniker": "site3_moviesearch\\src\\context\\MovieContext.jsx",
+              "ToolTip": "C:\\Users\\erico\\Desktop\\Sites\\Site3_Moviesearch\\site3_moviesearch\\src\\context\\MovieContext.jsx",
+              "RelativeToolTip": "site3_moviesearch\\src\\context\\MovieContext.jsx",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-02-24T16:54:08.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Home.css",
+              "DocumentMoniker": "C:\\Users\\erico\\Desktop\\Sites\\Site3_Moviesearch\\site3_moviesearch\\src\\css\\Home.css",
+              "RelativeDocumentMoniker": "site3_moviesearch\\src\\css\\Home.css",
+              "ToolTip": "C:\\Users\\erico\\Desktop\\Sites\\Site3_Moviesearch\\site3_moviesearch\\src\\css\\Home.css",
+              "RelativeToolTip": "site3_moviesearch\\src\\css\\Home.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-24T16:28:26.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "api.js",
               "DocumentMoniker": "C:\\Users\\erico\\Desktop\\Sites\\Site3_Moviesearch\\site3_moviesearch\\src\\services\\api.js",
               "RelativeDocumentMoniker": "site3_moviesearch\\src\\services\\api.js",
               "ToolTip": "C:\\Users\\erico\\Desktop\\Sites\\Site3_Moviesearch\\site3_moviesearch\\src\\services\\api.js",
               "RelativeToolTip": "site3_moviesearch\\src\\services\\api.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2025-02-23T17:32:16.455Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "MoviCard.jsx",
               "DocumentMoniker": "C:\\Users\\erico\\Desktop\\Sites\\Site3_Moviesearch\\site3_moviesearch\\src\\component\\MoviCard.jsx",
               "RelativeDocumentMoniker": "site3_moviesearch\\src\\component\\MoviCard.jsx",
               "ToolTip": "C:\\Users\\erico\\Desktop\\Sites\\Site3_Moviesearch\\site3_moviesearch\\src\\component\\MoviCard.jsx",
               "RelativeToolTip": "site3_moviesearch\\src\\component\\MoviCard.jsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
               "WhenOpened": "2025-02-23T17:23:55.517Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "main.jsx",
-              "DocumentMoniker": "C:\\Users\\erico\\Desktop\\Sites\\Site3_Moviesearch\\site3_moviesearch\\src\\main.jsx",
-              "RelativeDocumentMoniker": "site3_moviesearch\\src\\main.jsx",
-              "ToolTip": "C:\\Users\\erico\\Desktop\\Sites\\Site3_Moviesearch\\site3_moviesearch\\src\\main.jsx",
-              "RelativeToolTip": "site3_moviesearch\\src\\main.jsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-02-23T17:18:01.493Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Navbar.jsx",
               "DocumentMoniker": "C:\\Users\\erico\\Desktop\\Sites\\Site3_Moviesearch\\site3_moviesearch\\src\\component\\Navbar.jsx",
               "RelativeDocumentMoniker": "site3_moviesearch\\src\\component\\Navbar.jsx",
@@ -112,7 +147,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "package.json",
               "DocumentMoniker": "C:\\Users\\erico\\Desktop\\Sites\\Site3_Moviesearch\\site3_moviesearch\\package.json",
               "RelativeDocumentMoniker": "site3_moviesearch\\package.json",
@@ -124,26 +159,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Favorites.jsx",
               "DocumentMoniker": "C:\\Users\\erico\\Desktop\\Sites\\Site3_Moviesearch\\site3_moviesearch\\src\\pages\\Favorites.jsx",
               "RelativeDocumentMoniker": "site3_moviesearch\\src\\pages\\Favorites.jsx",
               "ToolTip": "C:\\Users\\erico\\Desktop\\Sites\\Site3_Moviesearch\\site3_moviesearch\\src\\pages\\Favorites.jsx",
               "RelativeToolTip": "site3_moviesearch\\src\\pages\\Favorites.jsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
               "WhenOpened": "2025-02-23T16:21:56.917Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Home.jsx",
               "DocumentMoniker": "C:\\Users\\erico\\Desktop\\Sites\\Site3_Moviesearch\\site3_moviesearch\\src\\pages\\Home.jsx",
               "RelativeDocumentMoniker": "site3_moviesearch\\src\\pages\\Home.jsx",
               "ToolTip": "C:\\Users\\erico\\Desktop\\Sites\\Site3_Moviesearch\\site3_moviesearch\\src\\pages\\Home.jsx",
               "RelativeToolTip": "site3_moviesearch\\src\\pages\\Home.jsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
               "WhenOpened": "2025-02-23T16:21:40.737Z",
               "EditorCaption": ""
