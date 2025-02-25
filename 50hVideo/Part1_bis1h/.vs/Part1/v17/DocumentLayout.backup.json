@@ -1,0 +1,191 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\erico\\Desktop\\Sites\\50hVideo\\Part1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{300F0BF3-D66D-415C-B7AF-5A505DB4DC11}|Part1\\part1.esproj|c:\\users\\erico\\desktop\\sites\\50hvideo\\part1\\part1\\src\\components\\list.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{300F0BF3-D66D-415C-B7AF-5A505DB4DC11}|Part1\\part1.esproj|solutionrelative:part1\\src\\components\\list.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{300F0BF3-D66D-415C-B7AF-5A505DB4DC11}|Part1\\part1.esproj|c:\\users\\erico\\desktop\\sites\\50hvideo\\part1\\part1\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{300F0BF3-D66D-415C-B7AF-5A505DB4DC11}|Part1\\part1.esproj|solutionrelative:part1\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{300F0BF3-D66D-415C-B7AF-5A505DB4DC11}|Part1\\part1.esproj|c:\\users\\erico\\desktop\\sites\\50hvideo\\part1\\part1\\src\\components\\productinfo.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{300F0BF3-D66D-415C-B7AF-5A505DB4DC11}|Part1\\part1.esproj|solutionrelative:part1\\src\\components\\productinfo.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{300F0BF3-D66D-415C-B7AF-5A505DB4DC11}|Part1\\part1.esproj|c:\\users\\erico\\desktop\\sites\\50hvideo\\part1\\part1\\src\\components\\begrusung.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{300F0BF3-D66D-415C-B7AF-5A505DB4DC11}|Part1\\part1.esproj|solutionrelative:part1\\src\\components\\begrusung.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{300F0BF3-D66D-415C-B7AF-5A505DB4DC11}|Part1\\part1.esproj|c:\\users\\erico\\desktop\\sites\\50hvideo\\part1\\part1\\src\\components\\bracets.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{300F0BF3-D66D-415C-B7AF-5A505DB4DC11}|Part1\\part1.esproj|solutionrelative:part1\\src\\components\\bracets.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{300F0BF3-D66D-415C-B7AF-5A505DB4DC11}|Part1\\part1.esproj|c:\\users\\erico\\desktop\\sites\\50hvideo\\part1\\part1\\src\\components\\jsxrules.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{300F0BF3-D66D-415C-B7AF-5A505DB4DC11}|Part1\\part1.esproj|solutionrelative:part1\\src\\components\\jsxrules.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{300F0BF3-D66D-415C-B7AF-5A505DB4DC11}|Part1\\part1.esproj|c:\\users\\erico\\desktop\\sites\\50hvideo\\part1\\part1\\src\\components\\abfrage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{300F0BF3-D66D-415C-B7AF-5A505DB4DC11}|Part1\\part1.esproj|solutionrelative:part1\\src\\components\\abfrage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{300F0BF3-D66D-415C-B7AF-5A505DB4DC11}|Part1\\part1.esproj|c:\\users\\erico\\desktop\\sites\\50hvideo\\part1\\part1\\src\\components\\footer.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{300F0BF3-D66D-415C-B7AF-5A505DB4DC11}|Part1\\part1.esproj|solutionrelative:part1\\src\\components\\footer.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{300F0BF3-D66D-415C-B7AF-5A505DB4DC11}|Part1\\part1.esproj|c:\\users\\erico\\desktop\\sites\\50hvideo\\part1\\part1\\src\\components\\home.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{300F0BF3-D66D-415C-B7AF-5A505DB4DC11}|Part1\\part1.esproj|solutionrelative:part1\\src\\components\\home.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{300F0BF3-D66D-415C-B7AF-5A505DB4DC11}|Part1\\part1.esproj|c:\\users\\erico\\desktop\\sites\\50hvideo\\part1\\part1\\src\\components\\header.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{300F0BF3-D66D-415C-B7AF-5A505DB4DC11}|Part1\\part1.esproj|solutionrelative:part1\\src\\components\\header.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Users\\erico\\Desktop\\Sites\\50hVideo\\Part1\\part1\\src\\App.jsx",
+              "RelativeDocumentMoniker": "part1\\src\\App.jsx",
+              "ToolTip": "C:\\Users\\erico\\Desktop\\Sites\\50hVideo\\Part1\\part1\\src\\App.jsx",
+              "RelativeToolTip": "part1\\src\\App.jsx",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwB8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-02-25T14:30:11.67Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "List.jsx",
+              "DocumentMoniker": "C:\\Users\\erico\\Desktop\\Sites\\50hVideo\\Part1\\part1\\src\\components\\List.jsx",
+              "RelativeDocumentMoniker": "part1\\src\\components\\List.jsx",
+              "ToolTip": "C:\\Users\\erico\\Desktop\\Sites\\50hVideo\\Part1\\part1\\src\\components\\List.jsx",
+              "RelativeToolTip": "part1\\src\\components\\List.jsx",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-02-25T15:59:13.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductInfo.jsx",
+              "DocumentMoniker": "C:\\Users\\erico\\Desktop\\Sites\\50hVideo\\Part1\\part1\\src\\components\\ProductInfo.jsx",
+              "RelativeDocumentMoniker": "part1\\src\\components\\ProductInfo.jsx",
+              "ToolTip": "C:\\Users\\erico\\Desktop\\Sites\\50hVideo\\Part1\\part1\\src\\components\\ProductInfo.jsx",
+              "RelativeToolTip": "part1\\src\\components\\ProductInfo.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-02-25T15:54:17.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Begrusung.jsx",
+              "DocumentMoniker": "C:\\Users\\erico\\Desktop\\Sites\\50hVideo\\Part1\\part1\\src\\components\\Begrusung.jsx",
+              "RelativeDocumentMoniker": "part1\\src\\components\\Begrusung.jsx",
+              "ToolTip": "C:\\Users\\erico\\Desktop\\Sites\\50hVideo\\Part1\\part1\\src\\components\\Begrusung.jsx",
+              "RelativeToolTip": "part1\\src\\components\\Begrusung.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-02-25T15:50:39.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "bracets.jsx",
+              "DocumentMoniker": "C:\\Users\\erico\\Desktop\\Sites\\50hVideo\\Part1\\part1\\src\\components\\bracets.jsx",
+              "RelativeDocumentMoniker": "part1\\src\\components\\bracets.jsx",
+              "ToolTip": "C:\\Users\\erico\\Desktop\\Sites\\50hVideo\\Part1\\part1\\src\\components\\bracets.jsx",
+              "RelativeToolTip": "part1\\src\\components\\bracets.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-02-25T15:37:52.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JSXRules.jsx",
+              "DocumentMoniker": "C:\\Users\\erico\\Desktop\\Sites\\50hVideo\\Part1\\part1\\src\\components\\JSXRules.jsx",
+              "RelativeDocumentMoniker": "part1\\src\\components\\JSXRules.jsx",
+              "ToolTip": "C:\\Users\\erico\\Desktop\\Sites\\50hVideo\\Part1\\part1\\src\\components\\JSXRules.jsx",
+              "RelativeToolTip": "part1\\src\\components\\JSXRules.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-02-25T15:33:50.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Abfrage.jsx",
+              "DocumentMoniker": "C:\\Users\\erico\\Desktop\\Sites\\50hVideo\\Part1\\part1\\src\\components\\Abfrage.jsx",
+              "RelativeDocumentMoniker": "part1\\src\\components\\Abfrage.jsx",
+              "ToolTip": "C:\\Users\\erico\\Desktop\\Sites\\50hVideo\\Part1\\part1\\src\\components\\Abfrage.jsx",
+              "RelativeToolTip": "part1\\src\\components\\Abfrage.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-02-25T15:29:35.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Footer.jsx",
+              "DocumentMoniker": "C:\\Users\\erico\\Desktop\\Sites\\50hVideo\\Part1\\part1\\src\\components\\Footer.jsx",
+              "RelativeDocumentMoniker": "part1\\src\\components\\Footer.jsx",
+              "ToolTip": "C:\\Users\\erico\\Desktop\\Sites\\50hVideo\\Part1\\part1\\src\\components\\Footer.jsx",
+              "RelativeToolTip": "part1\\src\\components\\Footer.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-02-25T15:13:51.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Home.jsx",
+              "DocumentMoniker": "C:\\Users\\erico\\Desktop\\Sites\\50hVideo\\Part1\\part1\\src\\components\\Home.jsx",
+              "RelativeDocumentMoniker": "part1\\src\\components\\Home.jsx",
+              "ToolTip": "C:\\Users\\erico\\Desktop\\Sites\\50hVideo\\Part1\\part1\\src\\components\\Home.jsx",
+              "RelativeToolTip": "part1\\src\\components\\Home.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-02-25T15:02:18.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "header.jsx",
+              "DocumentMoniker": "C:\\Users\\erico\\Desktop\\Sites\\50hVideo\\Part1\\part1\\src\\components\\header.jsx",
+              "RelativeDocumentMoniker": "part1\\src\\components\\header.jsx",
+              "ToolTip": "C:\\Users\\erico\\Desktop\\Sites\\50hVideo\\Part1\\part1\\src\\components\\header.jsx",
+              "RelativeToolTip": "part1\\src\\components\\header.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-02-25T14:54:43.595Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

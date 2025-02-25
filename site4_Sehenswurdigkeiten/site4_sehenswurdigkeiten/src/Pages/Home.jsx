@@ -1,5 +1,6 @@
 import "../back/style.scss"
 import "../back/script.js"
+import profilPoints from "../Profil/Point.jsx"
 
 function Home() {
 
@@ -14,7 +15,9 @@ function Home() {
 
 				<div class="play" data-splitting>Profilname</div>
 				<div class="time">Sehenwurdigkeitssucher</div>
-				<div class="recordSpeed">Punkte:  </div>
+				<div class="recordSpeed">
+					
+				</div>
 			</div>
 		</>
 	)
