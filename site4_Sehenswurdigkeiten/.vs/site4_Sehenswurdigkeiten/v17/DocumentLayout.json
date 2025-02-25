@@ -7,8 +7,16 @@
       "RelativeMoniker": "D:0:0:{3C6FE5D7-91DF-4816-BA0D-871E22865DCC}|site4_Sehenswurdigkeiten\\site4_sehenswurdigkeiten.esproj|solutionrelative:site4_sehenswurdigkeiten\\src\\pages\\home.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C6FE5D7-91DF-4816-BA0D-871E22865DCC}|site4_Sehenswurdigkeiten\\site4_sehenswurdigkeiten.esproj|c:\\users\\erico\\desktop\\sites\\site4_sehenswurdigkeiten\\site4_sehenswurdigkeiten\\src\\profil\\point.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{3C6FE5D7-91DF-4816-BA0D-871E22865DCC}|site4_Sehenswurdigkeiten\\site4_sehenswurdigkeiten.esproj|solutionrelative:site4_sehenswurdigkeiten\\src\\profil\\point.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{3C6FE5D7-91DF-4816-BA0D-871E22865DCC}|site4_Sehenswurdigkeiten\\site4_sehenswurdigkeiten.esproj|c:\\users\\erico\\desktop\\sites\\site4_sehenswurdigkeiten\\site4_sehenswurdigkeiten\\src\\pages\\profilubersicht.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3C6FE5D7-91DF-4816-BA0D-871E22865DCC}|site4_Sehenswurdigkeiten\\site4_sehenswurdigkeiten.esproj|solutionrelative:site4_sehenswurdigkeiten\\src\\pages\\profilubersicht.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C6FE5D7-91DF-4816-BA0D-871E22865DCC}|site4_Sehenswurdigkeiten\\site4_sehenswurdigkeiten.esproj|c:\\users\\erico\\desktop\\sites\\site4_sehenswurdigkeiten\\site4_sehenswurdigkeiten\\src\\back\\style.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{3C6FE5D7-91DF-4816-BA0D-871E22865DCC}|site4_Sehenswurdigkeiten\\site4_sehenswurdigkeiten.esproj|solutionrelative:site4_sehenswurdigkeiten\\src\\back\\style.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C6FE5D7-91DF-4816-BA0D-871E22865DCC}|site4_Sehenswurdigkeiten\\site4_sehenswurdigkeiten.esproj|c:\\users\\erico\\desktop\\sites\\site4_sehenswurdigkeiten\\site4_sehenswurdigkeiten\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3C6FE5D7-91DF-4816-BA0D-871E22865DCC}|site4_Sehenswurdigkeiten\\site4_sehenswurdigkeiten.esproj|solutionrelative:site4_sehenswurdigkeiten\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,7 +36,7 @@
               "RelativeDocumentMoniker": "site4_sehenswurdigkeiten\\src\\Pages\\Home.jsx",
               "ToolTip": "C:\\Users\\erico\\Desktop\\Sites\\site4_Sehenswurdigkeiten\\site4_sehenswurdigkeiten\\src\\Pages\\Home.jsx",
               "RelativeToolTip": "site4_sehenswurdigkeiten\\src\\Pages\\Home.jsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
               "WhenOpened": "2025-02-24T18:30:49.744Z",
               "IsPinned": true,
@@ -37,14 +45,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Point.jsx",
-              "DocumentMoniker": "C:\\Users\\erico\\Desktop\\Sites\\site4_Sehenswurdigkeiten\\site4_sehenswurdigkeiten\\src\\Profil\\Point.jsx",
-              "RelativeDocumentMoniker": "site4_sehenswurdigkeiten\\src\\Profil\\Point.jsx",
-              "ToolTip": "C:\\Users\\erico\\Desktop\\Sites\\site4_Sehenswurdigkeiten\\site4_sehenswurdigkeiten\\src\\Profil\\Point.jsx",
-              "RelativeToolTip": "site4_sehenswurdigkeiten\\src\\Profil\\Point.jsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
+              "Title": "Profilubersicht.jsx",
+              "DocumentMoniker": "C:\\Users\\erico\\Desktop\\Sites\\site4_Sehenswurdigkeiten\\site4_sehenswurdigkeiten\\src\\Pages\\Profilubersicht.jsx",
+              "RelativeDocumentMoniker": "site4_sehenswurdigkeiten\\src\\Pages\\Profilubersicht.jsx",
+              "ToolTip": "C:\\Users\\erico\\Desktop\\Sites\\site4_Sehenswurdigkeiten\\site4_sehenswurdigkeiten\\src\\Pages\\Profilubersicht.jsx",
+              "RelativeToolTip": "site4_sehenswurdigkeiten\\src\\Pages\\Profilubersicht.jsx",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-02-25T13:51:59.991Z",
+              "WhenOpened": "2025-02-25T18:07:53.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "style.scss",
+              "DocumentMoniker": "C:\\Users\\erico\\Desktop\\Sites\\site4_Sehenswurdigkeiten\\site4_sehenswurdigkeiten\\src\\back\\style.scss",
+              "RelativeDocumentMoniker": "site4_sehenswurdigkeiten\\src\\back\\style.scss",
+              "ToolTip": "C:\\Users\\erico\\Desktop\\Sites\\site4_Sehenswurdigkeiten\\site4_sehenswurdigkeiten\\src\\back\\style.scss",
+              "RelativeToolTip": "site4_sehenswurdigkeiten\\src\\back\\style.scss",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAAAIwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2025-02-25T18:06:50.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Users\\erico\\Desktop\\Sites\\site4_Sehenswurdigkeiten\\site4_sehenswurdigkeiten\\src\\App.jsx",
+              "RelativeDocumentMoniker": "site4_sehenswurdigkeiten\\src\\App.jsx",
+              "ToolTip": "C:\\Users\\erico\\Desktop\\Sites\\site4_Sehenswurdigkeiten\\site4_sehenswurdigkeiten\\src\\App.jsx",
+              "RelativeToolTip": "site4_sehenswurdigkeiten\\src\\App.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-02-25T16:57:55.819Z",
               "EditorCaption": ""
             }
           ]

@@ -1,7 +1,7 @@
-import "../back/style.scss"
+﻿import "../back/style.scss"
 import "../back/script.js"
-import profilPoints from "../Profil/Point.jsx"
-
+import Punkte from "../components/Point.jsx"
+import NavbarMenu from "../components/NavBar.jsx"
 function Home() {
 
 
@@ -9,18 +9,20 @@ function Home() {
 		<>
 			<div name="scanlines"></div>
 
-			<div class="intro-wrap">
-				<div class="noise"></div>
-				<div class="noise noise-moving"></div>
+			<div className="intro-wrap">
+				<div className="noise"></div>
+				<div className="noise noise-moving">
 
-				<div class="play" data-splitting>Profilname</div>
-				<div class="time">Sehenwurdigkeitssucher</div>
-				<div class="recordSpeed">
-					
+				</div>
+
+				<div className="play" > </div>
+				<NavbarMenu />
+				<div className="recordSpeed">
+					<Punkte/>
 				</div>
 			</div>
 		</>
 	)
 };
 
-export default Home
+export default Home;
